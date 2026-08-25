@@ -1,0 +1,15 @@
+{
+  "name": "project_management_platform",
+  "version": "1.0.0",
+  "description": "\"a project management application for beginners\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Vansh Bhardwaj",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.9.6"
+  }
+}
